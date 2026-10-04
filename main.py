@@ -1,5 +1,7 @@
 print("hellow world")
 
-answer = input();
+answer = input("Enter your answer : ")
 
-print(answer);
+print(answer)
+
+print("change 1")
